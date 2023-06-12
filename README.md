@@ -4,7 +4,7 @@
 ### 👩‍💻 About Me:
 
  - Меня захватывает процесс разработки и возможность создавать новые интересные проекты и решать сложные задачи. 
-Раньше я руководил командой и создавал медицинские изделия, сейчас я применяю этот опыт это в вебе.
+Раньше я руководил командой и создавал медицинские изделия, сейчас я применяю этот опыт в вебе.
 Посмотрите мои работы на сайте [Pavelsm.com](https://pavelsm.com)  в разделе портфолио.
 
  - В свободное время изучаю алгоритмы и фреймворки. В ближайших планах изучить Vue, Angular и дочитать серию книг Кайла Симпсона.
@@ -18,9 +18,15 @@
 
 
 ### 🛠 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
+![HTML5](https://user-images.githubusercontent.com/86494748/128634189-e6ded326-aeb9-4f8d-8508-f0fcd7f1d891.png)
+![CSS3](https://user-images.githubusercontent.com/86494748/128634188-71178ce2-89cf-4283-9f5a-87ff5d3b4854.png)
+![JavaScript](https://user-images.githubusercontent.com/86494748/148681759-aea31033-3b1c-4687-a0e7-e5faeb06bf50.png)
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
+
+
+
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
