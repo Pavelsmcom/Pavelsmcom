@@ -37,8 +37,8 @@
  <img src="https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white"/>
 </a>
 <a href="79168445519@yandex.ru">
- <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/-79168445519@yandex.ru-blue"/>
 </a>
 <a href="https://pavelsm.com">
- <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/-pavelsm.com-blue"/>
 </a>
