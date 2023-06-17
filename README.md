@@ -37,7 +37,7 @@
  <img src="https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white"/>
 </a>
 <a href="79168445519@yandex.ru">
- <img src="https://img.shields.io/badge/-79168445519@yandex.ru-blue"/>
+ <img src="https://img.shields.io/badge/-mail-blue"/>
 </a>
 <a href="https://pavelsm.com">
  <img src="https://img.shields.io/badge/-pavelsm.com-blue"/>
