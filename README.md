@@ -17,7 +17,6 @@
 
 
 
-
 ### 🛠 Tech Stack:
 
 
@@ -30,3 +29,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="express" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongoDB" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" width="40" height="40"/>&nbsp;
+
+
+### 📤 My contacts:
+
+<a href="https://t.me/ElvenSky">
+ <img src="https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white"/>
+</a>
+<a href="79168445519@yandex.ru">
+ <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
+</a>
+<a href="https://pavelsm.com">
+ <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
+</a>
