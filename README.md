@@ -38,3 +38,6 @@
 <a href="https://pavelsm.com">
  <img src="https://img.shields.io/badge/-pavelsm.com-blue"/>
 </a>
+
+### 🛠 My stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
