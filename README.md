@@ -10,9 +10,6 @@
 
 - Посмотрите мои работы на сайте [pavelsm.com](https://pavelsm.com) в разделе портфолио.
 
-- Открыт к предложениям на позицию Frontend developer, где могу внести свой вклад, поделиться своим опытом и развиваться вместе с командой.
-  Если вы занимаетесь интересными проектами, у вас дружная команда и вы хотите предложить работу, то свяжитесь со мной [Telegram](https://t.me/ElvenSky)
-
 ### Tech Stack:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
